@@ -1,0 +1,1 @@
+var e=[{label:`Privacy Policy`,docType:`privacy-policy`},{label:`Terms of Service`,docType:`terms-of-service`},{label:`Cookie Policy`,docType:`cookie-policy`}];export{e as t};
